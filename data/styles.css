@@ -1,0 +1,101 @@
+html, body {
+  font-family: sans-serif;
+  font-size: .9em;
+}
+
+.page-title {
+    width:100%;
+    background-color: rgb(169, 189, 169);
+    padding:2px 0 10px 24px;
+}
+
+.page-container {
+    margin-left: 50px;
+}
+
+.feature {
+    width:200px;
+    text-align: right;
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;
+}
+
+.score-bar {
+    background-color: darkolivegreen;   
+}
+
+.score-bar-neg {
+    background-color: darkred;   
+}
+
+.score {
+    position: relative;
+    margin:0;
+    color: darkolivegreen;
+}
+
+
+.flexrow {
+    display: flex;
+}
+.flexcol {
+    flex: 50%;
+    padding: 30px;
+}
+
+caption {
+    padding: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hlist caption {
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.hlist td {
+    vertical-align: top;
+    padding: 0 20px 10px 0;
+}
+
+.hlist td:first-of-type {
+    width: 20%;
+}
+
+
+.hlist {
+    width: 70%;
+}
+
+.top-ten-title {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 0;
+}
+
+.notice {
+    font-weight: bold;
+    color: blue;
+}
+
+.discussion {
+    width: 60%;
+}
+
+#mynetwork {
+    margin: auto;
+    width: 95%;
+    height: 900px;
+    font-size: 16px;
+  }
+
+.vis-active:focus {
+    outline: none;
+}
+
+.vis-network { 
+    outline: none; 
+}

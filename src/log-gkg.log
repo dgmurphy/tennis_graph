@@ -1,0 +1,476 @@
+INFO: persons rows: 10
+INFO: persons rows: 20
+INFO: persons rows: 30
+INFO: persons rows: 40
+INFO: persons rows: 50
+INFO: persons rows: 60
+INFO: persons rows: 70
+INFO: persons rows: 80
+INFO: persons rows: 90
+INFO: persons rows: 100
+INFO: persons rows: 110
+INFO: persons rows: 120
+INFO: persons rows: 130
+INFO: persons rows: 140
+INFO: persons rows: 150
+INFO: persons rows: 160
+INFO: persons rows: 170
+INFO: persons rows: 180
+INFO: persons rows: 190
+INFO: persons rows: 200
+INFO: persons rows: 210
+INFO: persons rows: 220
+INFO: persons rows: 230
+INFO: persons rows: 240
+INFO: persons rows: 250
+INFO: persons rows: 260
+INFO: persons rows: 270
+INFO: persons rows: 280
+INFO: persons rows: 290
+INFO: persons rows: 300
+INFO: persons rows: 310
+INFO: persons rows: 320
+INFO: reading../data/IIRPersons.csv
+INFO: consolidated df shape: (328, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: writing ../data/PersonsEdgeIDsAll.csv
+INFO: Filtering edge list for link-strength > 6
+INFO: writing ../data/PersonsEdgeListTopN.csv
+INFO: writing ../data/PersonsNodesTopN.csv
+INFO: reading../data/IIRPersons.csv
+INFO: consolidated df shape: (328, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: writing ../data/PersonsEdgeIDsAll.csv
+INFO: Filtering edge list for link-strength > 6
+INFO: writing ../data/PersonsEdgeListTopN.csv
+INFO: writing ../data/PersonsNodesTopN.csv
+INFO: reading../data/IIRPersons.csv
+INFO: consolidated df shape: (328, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: writing ../data/PersonsEdgeIDsAll.csv
+INFO: Filtering edge list for link-strength > 6
+INFO: writing ../data/PersonsEdgeListTopN.csv
+INFO: writing ../data/PersonsNodesTopN.csv
+INFO: reading../data/IIRPersons.csv
+INFO: consolidated df shape: (328, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: persons rows: 10
+INFO: persons rows: 20
+INFO: persons rows: 30
+INFO: persons rows: 40
+INFO: persons rows: 50
+INFO: persons rows: 60
+INFO: persons rows: 70
+INFO: persons rows: 80
+INFO: persons rows: 90
+INFO: persons rows: 100
+INFO: persons rows: 110
+INFO: persons rows: 120
+INFO: persons rows: 130
+INFO: persons rows: 140
+INFO: persons rows: 150
+INFO: persons rows: 160
+INFO: persons rows: 170
+INFO: persons rows: 180
+INFO: persons rows: 190
+INFO: persons rows: 200
+INFO: persons rows: 210
+INFO: persons rows: 220
+INFO: persons rows: 230
+INFO: persons rows: 240
+INFO: persons rows: 250
+INFO: persons rows: 260
+INFO: persons rows: 270
+INFO: persons rows: 280
+INFO: persons rows: 290
+INFO: persons rows: 300
+INFO: persons rows: 310
+INFO: persons rows: 320
+INFO: reading../data/IIRPersons.csv
+INFO: consolidated df shape: (328, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: writing ../data/PersonsEdgeIDsAll.csv
+INFO: Filtering edge list for link-strength > 6
+INFO: writing ../data/PersonsEdgeListTopN.csv
+INFO: writing ../data/PersonsNodesTopN.csv
+INFO: writing ../data/PersonsOrgs-graph.html
+INFO: persons rows: 10
+INFO: persons rows: 20
+INFO: persons rows: 30
+INFO: persons rows: 40
+INFO: persons rows: 50
+INFO: persons rows: 60
+INFO: persons rows: 70
+INFO: persons rows: 80
+INFO: persons rows: 90
+INFO: persons rows: 100
+INFO: persons rows: 110
+INFO: persons rows: 120
+INFO: persons rows: 130
+INFO: persons rows: 140
+INFO: persons rows: 150
+INFO: persons rows: 160
+INFO: persons rows: 170
+INFO: persons rows: 180
+INFO: persons rows: 190
+INFO: persons rows: 200
+INFO: persons rows: 210
+INFO: persons rows: 220
+INFO: persons rows: 230
+INFO: persons rows: 240
+INFO: persons rows: 250
+INFO: persons rows: 260
+INFO: persons rows: 270
+INFO: persons rows: 280
+INFO: persons rows: 290
+INFO: persons rows: 300
+INFO: persons rows: 310
+INFO: persons rows: 320
+INFO: persons rows: 10
+INFO: persons rows: 20
+INFO: persons rows: 30
+INFO: persons rows: 40
+INFO: persons rows: 50
+INFO: persons rows: 60
+INFO: persons rows: 70
+INFO: persons rows: 80
+INFO: persons rows: 90
+INFO: persons rows: 100
+INFO: persons rows: 110
+INFO: persons rows: 120
+INFO: persons rows: 130
+INFO: persons rows: 140
+INFO: persons rows: 150
+INFO: persons rows: 160
+INFO: persons rows: 170
+INFO: persons rows: 180
+INFO: persons rows: 190
+INFO: persons rows: 200
+INFO: persons rows: 210
+INFO: persons rows: 220
+INFO: persons rows: 230
+INFO: persons rows: 240
+INFO: persons rows: 250
+INFO: persons rows: 260
+INFO: persons rows: 270
+INFO: persons rows: 280
+INFO: persons rows: 290
+INFO: persons rows: 300
+INFO: persons rows: 310
+INFO: persons rows: 320
+INFO: persons rows: 330
+INFO: persons rows: 340
+INFO: persons rows: 350
+INFO: persons rows: 360
+INFO: persons rows: 370
+INFO: persons rows: 380
+INFO: persons rows: 390
+INFO: persons rows: 400
+INFO: persons rows: 410
+INFO: persons rows: 420
+INFO: persons rows: 430
+INFO: persons rows: 440
+INFO: persons rows: 450
+INFO: persons rows: 460
+INFO: persons rows: 470
+INFO: persons rows: 480
+INFO: persons rows: 490
+INFO: persons rows: 500
+INFO: persons rows: 510
+INFO: persons rows: 520
+INFO: persons rows: 530
+INFO: persons rows: 540
+INFO: persons rows: 550
+INFO: persons rows: 560
+INFO: persons rows: 570
+INFO: persons rows: 580
+INFO: persons rows: 590
+INFO: persons rows: 600
+INFO: persons rows: 610
+INFO: persons rows: 620
+INFO: persons rows: 630
+INFO: persons rows: 640
+INFO: persons rows: 650
+INFO: persons rows: 660
+INFO: persons rows: 670
+INFO: persons rows: 680
+INFO: persons rows: 690
+INFO: persons rows: 700
+INFO: persons rows: 710
+INFO: persons rows: 720
+INFO: persons rows: 730
+INFO: persons rows: 740
+INFO: persons rows: 750
+INFO: persons rows: 760
+INFO: persons rows: 770
+INFO: persons rows: 780
+INFO: persons rows: 790
+INFO: persons rows: 800
+INFO: persons rows: 810
+INFO: persons rows: 820
+INFO: persons rows: 830
+INFO: persons rows: 840
+INFO: persons rows: 850
+INFO: persons rows: 860
+INFO: persons rows: 870
+INFO: persons rows: 880
+INFO: persons rows: 890
+INFO: persons rows: 900
+INFO: persons rows: 910
+INFO: persons rows: 920
+INFO: persons rows: 930
+INFO: persons rows: 940
+INFO: persons rows: 950
+INFO: persons rows: 960
+INFO: persons rows: 970
+INFO: persons rows: 980
+INFO: persons rows: 990
+INFO: persons rows: 1000
+INFO: persons rows: 1010
+INFO: persons rows: 1020
+INFO: persons rows: 1030
+INFO: persons rows: 1040
+INFO: persons rows: 1050
+INFO: persons rows: 1060
+INFO: persons rows: 1070
+INFO: persons rows: 1080
+INFO: persons rows: 1090
+INFO: persons rows: 1100
+INFO: persons rows: 1110
+INFO: persons rows: 1120
+INFO: persons rows: 1130
+INFO: persons rows: 1140
+INFO: persons rows: 1150
+INFO: persons rows: 1160
+INFO: persons rows: 1170
+INFO: persons rows: 1180
+INFO: persons rows: 1190
+INFO: persons rows: 1200
+INFO: persons rows: 1210
+INFO: persons rows: 1220
+INFO: persons rows: 1230
+INFO: persons rows: 1240
+INFO: persons rows: 1250
+INFO: persons rows: 1260
+INFO: persons rows: 1270
+INFO: persons rows: 1280
+INFO: persons rows: 1290
+INFO: persons rows: 1300
+INFO: persons rows: 1310
+INFO: persons rows: 1320
+INFO: persons rows: 1330
+INFO: persons rows: 1340
+INFO: persons rows: 1350
+INFO: persons rows: 1360
+INFO: persons rows: 1370
+INFO: persons rows: 1380
+INFO: persons rows: 1390
+INFO: persons rows: 1400
+INFO: persons rows: 1410
+INFO: persons rows: 1420
+INFO: persons rows: 1430
+INFO: persons rows: 1440
+INFO: persons rows: 1450
+INFO: persons rows: 1460
+INFO: persons rows: 1470
+INFO: persons rows: 1480
+INFO: persons rows: 1490
+INFO: persons rows: 1500
+INFO: persons rows: 1510
+INFO: persons rows: 1520
+INFO: persons rows: 1530
+INFO: persons rows: 1540
+INFO: persons rows: 1550
+INFO: persons rows: 1560
+INFO: persons rows: 1570
+INFO: persons rows: 1580
+INFO: persons rows: 1590
+INFO: persons rows: 1600
+INFO: persons rows: 1610
+INFO: persons rows: 1620
+INFO: persons rows: 1630
+INFO: persons rows: 1640
+INFO: persons rows: 1650
+INFO: persons rows: 1660
+INFO: persons rows: 1670
+INFO: persons rows: 1680
+INFO: persons rows: 1690
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: writing ../data/PersonsEdgeIDsAll.csv
+INFO: Filtering edge list for link-strength > 6
+INFO: writing ../data/PersonsEdgeListTopN.csv
+INFO: writing ../data/PersonsNodesTopN.csv
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: writing ../data/PersonsEdgeIDsAll.csv
+INFO: Filtering edge list for link-strength > 3
+INFO: writing ../data/PersonsEdgeListTopN.csv
+INFO: writing ../data/PersonsNodesTopN.csv
+INFO: writing ../data/PersonsOrgs-graph.html
+INFO: reading../data/Tennis_Persons.csv
+INFO: consolidated df shape: (1649, 1)
+INFO: writing ../data/PersonsNodesAll.csv
+INFO: creating pairs
+INFO: building edge df
+INFO: writing ../data/PersonsEdgeListAll.csv
+INFO: writing ../data/PersonsEdgeIDsAll.csv
+INFO: Filtering edge list for link-strength > 2
+INFO: writing ../data/PersonsEdgeListTopN.csv
+INFO: writing ../data/PersonsNodesTopN.csv
+INFO: writing ../data/PersonsOrgs-graph.html

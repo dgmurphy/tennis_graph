@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>IIR Persons & Orgs Graph</title>
+  <link rel="stylesheet" href="./styles.css" type="text/css">
+  <script type="text/javascript" src="./vis-network.min.js"></script>
+ <script type="text/javascript">
+     var nodes = null;
+     var edges = null;
+     var network = null;
+     function draw() {
+nodes = [
+{id: 3, value: 50, label: 'BFB'},
+{id: 25, value: 9, label: 'Atropia'},
+{id: 23, value: 8, label: 'Bilasuvar Freedom Brigade'},
+{id: 2, value: 7, label: 'Martin Fatemi'},
+{id: 0, value: 6, label: 'Rasmus Dalvand'},
+{id: 37, value: 4, label: 'SPF'},
+{id: 35, value: 4, label: 'Qutaybah Kis'},
+{id: 20, value: 3, label: 'Al Iksir'},
+{id: 1, value: 3, label: 'Naeem Meszaros'},
+{id: 7, value: 3, label: 'Filip Fasihuddin'},
+{id: 52, value: 3, label: 'MutaFodor'},
+{id: 77, value: 3, label: 'Saahir Prochazka'},
+{id: 11, value: 3, label: 'Krzystof Iqbal'},
+{id: 9, value: 3, label: 'Marek Zanjani'},
+{id: 59, value: 2, label: 'Jozef Shia-Agil'},
+{id: 94, value: 2, label: 'Donovia'},
+{id: 91, value: 2, label: 'Atropian Government'},
+{id: 49, value: 2, label: 'Donovian Special Purpose Forces'},
+{id: 15, value: 2, label: 'Al Iksir Cartel'},
+{id: 133, value: 2, label: 'Mutee Fodor'},
+{id: 19, value: 2, label: 'Tariq Kocsis'},
+{id: 78, value: 2, label: 'Andrzej Sanjabi'},
+{id: 81, value: 2, label: 'Stanislaw Avarigan'},
+{id: 34, value: 2, label: 'Qudoos Prochazka'},
+{id: 57, value: 2, label: 'Jan Sadiqi'},
+{id: 29, value: 1, label: 'Amr Parn'},
+{id: 108, value: 1, label: 'IDP'},
+{id: 115, value: 1, label: 'Ismailov'},
+{id: 74, value: 1, label: 'Luqmaan Juhasz'},
+];
+
+edges = [
+{from: 25, to: 3, value: 10, title: '10'},
+{from: 3, to: 23, value: 10, title: '10'},
+{from: 3, to: 2, value: 7, title: '7'},
+{from: 3, to: 0, value: 5, title: '5'},
+{from: 3, to: 1, value: 5, title: '5'},
+{from: 49, to: 37, value: 4, title: '4'},
+{from: 3, to: 35, value: 4, title: '4'},
+{from: 15, to: 3, value: 4, title: '4'},
+{from: 3, to: 37, value: 4, title: '4'},
+{from: 133, to: 35, value: 3, title: '3'},
+{from: 91, to: 3, value: 3, title: '3'},
+{from: 2, to: 81, value: 3, title: '3'},
+{from: 3, to: 52, value: 3, title: '3'},
+{from: 3, to: 133, value: 3, title: '3'},
+{from: 3, to: 9, value: 3, title: '3'},
+{from: 3, to: 7, value: 3, title: '3'},
+{from: 7, to: 9, value: 3, title: '3'},
+{from: 52, to: 77, value: 3, title: '3'},
+{from: 25, to: 23, value: 3, title: '3'},
+{from: 3, to: 108, value: 3, title: '3'},
+{from: 78, to: 77, value: 2, title: '2'},
+{from: 91, to: 23, value: 2, title: '2'},
+{from: 29, to: 3, value: 2, title: '2'},
+{from: 59, to: 19, value: 2, title: '2'},
+{from: 25, to: 94, value: 2, title: '2'},
+{from: 3, to: 19, value: 2, title: '2'},
+{from: 78, to: 3, value: 2, title: '2'},
+{from: 3, to: 77, value: 2, title: '2'},
+{from: 9, to: 0, value: 2, title: '2'},
+{from: 20, to: 3, value: 2, title: '2'},
+{from: 3, to: 11, value: 2, title: '2'},
+{from: 3, to: 49, value: 2, title: '2'},
+{from: 3, to: 115, value: 2, title: '2'},
+{from: 3, to: 57, value: 2, title: '2'},
+{from: 2, to: 0, value: 2, title: '2'},
+{from: 1, to: 35, value: 2, title: '2'},
+{from: 3, to: 34, value: 2, title: '2'},
+{from: 11, to: 0, value: 2, title: '2'},
+{from: 3, to: 94, value: 2, title: '2'},
+{from: 3, to: 74, value: 2, title: '2'},
+{from: 2, to: 1, value: 2, title: '2'},
+];
+
+        var container = document.getElementById("mynetwork");
+        var data = {nodes: nodes, edges: edges};
+        var options = { nodes: {shape: 'dot'}};
+        network = new vis.Network(container, data, options);
+} </script>
+ </head>
+<body onload="draw()">
+<h1> IIR Persons & Orgs Graph</h1>
+<h2> Co-Mentions >= 3 </h2>
+<div id="mynetwork"></div>
+ </body>
+</html>

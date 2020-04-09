@@ -1,0 +1,855 @@
+id,label,value
+48,ATP,86
+161,WTA,66
+67,Novak Djokovic,65
+130,Getty Images,58
+29,MariSharapova,55
+83,Rafael Nadal,52
+331,BiancAndreescu,45
+172,SofiKenin,43
+214,Kim Clijsters,41
+101,Wimbledon,39
+102,Djokovic,34
+82,Roger Federer,34
+84,SerenWilliams,28
+252,Sampras,24
+42,Taylor Fritz,24
+112,Nadal,23
+171,Roland Garros,22
+359,ElinSvitolina,22
+19,Bob,20
+69,Stefanos Tsitsipas,19
+634,Capriati,19
+261,SimonHalep,18
+104,Grand Slams,18
+151,Mike,18
+73,Billie Jean King,17
+105,Stan Wawrinka,16
+114,Grigor Dimitrov,15
+74,Arthur Ashe,15
+223,Coco Gauff,14
+127,John McEnroe,14
+86,Serena,14
+45,BNP Paribas Open,13
+88,Federer,13
+228,Gauff,12
+89,Stephens,12
+461,Wells,12
+4,Tennis Channel,11
+52,Denis Shapovalov,11
+360,Leylah Fernandez,11
+456,Steve,11
+284,Davis Cup,11
+499,Watson,11
+343,Kvitova,11
+342,ArynSabalenka,11
+75,Sloane Stephens,10
+764,Daniil Medvedev,10
+28,Grand Slam,10
+506,Famer John McEnroe,9
+293,Malek Jaziri,9
+17,Mike Bryan,9
+6,AP,9
+173,Kenin,9
+201,Pete Sampras,9
+263,John Isner,9
+185,Querrey,8
+603,Andreescu,8
+154,ITF,8
+46,Monte Carlo,8
+40,Felix Auger-Aliassime,8
+626,Tunisia,8
+257,Naomi Osaka,8
+367,JohannKonta,8
+207,Thiago Seyboth Wild,7
+157,Brady,7
+362,Fernandez,7
+156,Ash Barty,7
+353,Kwon,7
+100,Lleyton Hewitt,7
+525,Oracle,7
+70,Tommy Haas,7
+175,Lyon,7
+2,Mandatory,7
+50,Frenchman,7
+38,Maria,7
+312,USTA,7
+66,Andy Murray,7
+25,ATP Tour,7
+433,Fritz,6
+155,Jennifer Brady,6
+196,Anna-LenFriedsam,6
+404,Forbes,6
+504,RenatZarazua,6
+150,Bob Bryan,6
+295,Bernard Tomic,6
+557,Graf,6
+609,Bianca,6
+115,Dimitrov,6
+181,Nicolas Kicker,6
+33,Sharapova,6
+220,Clijsters-Davenport,6
+279,Ivan Lendl,6
+216,Kim,5
+618,Angelique Kerber,5
+341,PetrKvitova,5
+21,Taylor Townsend,5
+426,Not Gauff,5
+519,Frances Tiafoe,5
+107,Roger,5
+503,Cinderella,5
+494,Bouzkova,5
+292,Juan Martin del Potro,5
+166,Tennis,5
+452,Joel,5
+289,Garbine Muguruza,5
+170,Jon Wertheim,5
+288,Bjorn Borg,5
+622,Tom Tebbutt,5
+0,YaroslavShvedova,5
+106,Slam,5
+767,Medvedev,5
+36,Vasek Pospisil,5
+41,BelindBencic,5
+350,Brit,5
+629,Safwat,5
+457,Dick Stockton,5
+79,Noah Rubin,5
+330,Ashleigh Barty,5
+15,Madison Keys,4
+139,Alexander Zverev,4
+260,KarolinPliskova,4
+53,Marin Cilic,4
+229,Venus Williams,4
+20,Sam Querrey,4
+18,MonicPuig,4
+334,Dominic Thiem,4
+12,Ryan Harrison,4
+733,Glasgow,4
+198,FFT,4
+823,Azarenka,4
+244,Steve Simon,4
+351,Wawrinka,4
+720,Larry Ellison,4
+718,Stadium One,4
+3,Paul Annacone,4
+338,Monfils,4
+363,Monterrey,4
+754,Petra,4
+30,WTA Tour,4
+405,Billie Jean,4
+35,Andrew Heitzman,4
+782,Manchester United’s,4
+612,Nicu,4
+43,Indian Wells,4
+304,AELTC,4
+366,Marie Bouzkova,4
+215,Lindsay Davenport,4
+300,FIT,4
+97,Flushing Meadows,4
+135,Diego Schwartzman,4
+44,Jeremy Chardy,4
+798,Micaela,4
+388,New York Times,4
+556,Sanchez Vicario,4
+251,Pete,3
+429,Candy,3
+417,Matt Fitzgerald/Tennis Channel,3
+227,All England Club,3
+299,Italian Tennis Federation,3
+410,Chris Evert,3
+345,Tommy Paul,3
+178,UTR,3
+371,AELTC Main Board,3
+428,Corey,3
+193,Laver Cup,3
+447,Vijay Amritraj,3
+190,Berrettini,3
+443,UCLA,3
+245,Jamie Murray,3
+379,SANTIAGO,3
+432,Centre Court,3
+224,BarbarRittner,3
+398,Al Laney,3
+313,Tennis Australia,3
+248,Rod Laver Arena,3
+191,Milos Raonic,3
+199,AndreGaudenzi,3
+276,MonicSeles,3
+705,Andy Roddick,3
+518,Caroline Wozniacki,3
+54,COURT,3
+717,Pasarell,3
+26,WTT,3
+71,Tsitsipas,3
+811,RafNadal Academy,3
+812,Moviestar,3
+134,David Goffin,3
+643,Hingis,3
+649,Sloane,3
+138,Gael Monfils,3
+13,Mardy Fish,3
+143,Zverev,3
+120,Nike,3
+699,ElenVesnina^s,3
+470,Brookes,3
+495,Mary,3
+834,JelenOstapenko,3
+486,Garin,3
+466,Norman Brookes,3
+162,Lebron James,3
+501,Heather Watson,3
+164,James,3
+165,NBA,3
+739,ATP Challenger,2
+728,Naisbitt,2
+727,Ellison,2
+724,n’t Wimbledon,2
+704,Ivo Karlovic,2
+706,Fernando Gonzalez,2
+349,Edmund,2
+347,Isner,2
+346,Tennis Channel^s,2
+741,Rolex Monte Carlo Masters,2
+458,WCT,2
+800,Bryan Bros Band,2
+746,Konta,2
+322,Novak Djokovic Novak Djokovic,2
+278,Courier,2
+844,BarborStrycova,2
+280,Goran Ivanisevic,2
+843,GabrielDabrowski,2
+826,DayanYastremska,2
+822,Jared Wickerham/BNP Paribas Open,2
+820,Yannick Maden,2
+817,Daily Mail,2
+297,Whatsapp,2
+674,Hopman Cup,2
+794,Nestor,2
+793,Daniel Nestor,2
+789,Halep,2
+755,1 Ashleigh Barty,2
+750,Michael Dowse,2
+679,Gibbs,2
+651,WTA Player Council,2
+356,Novak Djokovic^s,2
+673,Nguyen,2
+578,CDC,2
+401,Suzanne Lenglen,2
+567,Fed Cup,2
+565,French Tennis Federation,2
+553,Mac-Lendl,2
+412,Steffi Graf,2
+549,John McPhee,2
+273,MartinNavratilova,2
+539,Vitas,2
+537,Vitas Gerulaitis,2
+1,Coronavirus,2
+507,Tom Brady,2
+490,Thiago Monteiro,2
+436,Wayne Bryan,2
+442,Anne White,2
+479,GOAT,2
+446,United Nations,2
+579,ATP Challenger Tour,2
+582,Mark Hurd,2
+386,National Team,2
+616,Tennis Canada,2
+668,King,2
+667,National Tennis League,2
+666,Jean King,2
+661,Rosie Casals,2
+652,AnastasiPavlyuchenkova,2
+465,Anthony Wilding,2
+630,Jabeur,2
+614,Globe and Mail,2
+384,Stone Age,2
+611,Jennifer Capriati,2
+373,ArantxRus,2
+377,U.S. Tennis Association,2
+600,Sylvain Bruneau,2
+599,Nathalie Tauziat,2
+584,Oracle Challenge Series,2
+381,Ruud,2
+544,Ilie Nastase,2
+427,dad Corey,2
+255,Rally for Relief,2
+210,Casper Ruud,2
+202,Gaudenzi,2
+179,Van Uytvanck,2
+177,Alison Van Uytvanck,2
+10,PhiladelphiFreedoms,2
+11,Vegas Rollers,2
+176,Jaqueline Cristian,2
+14,Coco Vandeweghe,2
+60,MartinHingis,2
+16,Rio Olympics,2
+174,Oceane Dodin,2
+103,Murray,2
+49,L^Equipe,2
+22,Orlando Storm,2
+23,Bryan,2
+250,Rafa,2
+116,Prakash Amritraj,2
+31,Orange County Breakers,2
+85,Venus,2
+249,Agassi,2
+80,BTR,2
+81,MariSharapova’s,2
+109,Del Potro,2
+91,Rubin,2
+141,Jack Sock,2
+132,Auger-Aliassime,2
+159,Caroline Garcia,2
+92,Mary Carillo,2
+271,Stefan Edberg,2
+47,Barcelona,2
+95,Roddick,2
+123,TwitterView,2
+268,Jim Courier,2
+128,New Yorker,2
+195,Alison van Uytvanck,2
+7,Team Bryan Brothers,2
+197,Friedsam,2
+265,Rod Laver,2
+183,BNP Paribas,2
+182,Tennis Integrity Unit,2
+64,Danielle Collins,2
+656,Kristy Pigeon,1
+654,Nicole Gibbs,1
+93,Andy,1
+659,Valerie Ziegenfuss,1
+662,Nancy Richey,1
+671,WCT Tour,1
+670,Lamar Hunt,1
+669,Ken Rosewall,1
+653,DonnVekic,1
+90,Serenfoundation,1
+87,Miami Dolphins,1
+655,Kerry Melville Reid,1
+663,Gladys Heldman,1
+658,Judy Tegart Dalton,1
+657,Julie Heldman,1
+660,Peaches Bartkowicz,1
+665,Mother Freedom,1
+664,VirginiSlims Invitational,1
+274,Patrick Rafter,1
+681,Reem Abulleil,1
+672,Courtney Nguyen,1
+689,MariSharapova^ll,1
+701,SvetlanKuznetsova,1
+700,bob,1
+77,JessicPegula,1
+698,DominikCibulkova,1
+697,VictoriAzeranka,1
+696,SimonHalep 2015,1
+695,Palm Beach AtlantPacific University,1
+694,Pato,1
+693,AMT2020,1
+692,RenatZarazuRenatZarazua,1
+691,Sportsnet,1
+690,MariSharapovShark,1
+688,Hellllll,1
+675,Jurgen Melzer,1
+687,Pips & Bounce,1
+686,Fur,1
+685,Mark Cuban,1
+684,Bala,1
+683,Shark Tank,1
+682,Player Council,1
+94,Tennis Channel Live,1
+680,Stadium Court,1
+78,Pegula,1
+678,Bruno Soares,1
+677,Kevin Anderson,1
+676,Yen-Hsun Lu,1
+650,Billie Jean King^s,1
+637,Mary Lou Daniels,1
+648,Richard Williams,1
+119,Uniqlo,1
+594,Tennis Award,1
+595,SMU,1
+596,Grant Chen,1
+597,Tim Smyczek,1
+598,Dennis Novikov,1
+121,Tenro AG^,1
+601,Nathalie,1
+117,Grigor Dimitrov Grigor Dimitrov,1
+602,Wikipedia,1
+118,RF,1
+604,Justin Trudeau,1
+605,North!”—her,1
+606,Clayton Kershaw,1
+607,Williams,1
+593,Jamie Loeb,1
+592,University of North Carolina,1
+591,Mark,1
+590,InsideOut Sports & Entertainment,1
+589,Ohio State University,1
+588,USTA National Campus,1
+587,Tennis Center,1
+586,University of Michigan,1
+585,Southern Methodist University,1
+122,@NZZ,1
+583,Oracle US Tennis Awards,1
+581,ATP Tour ATP Tour,1
+580,Itaú,1
+124,Christopher Clarey,1
+125,@christophclarey,1
+577,N95,1
+576,University of Southern California,1
+608,Michael Downey,1
+610,MariAndreescu,1
+647,Lillian Watson,1
+638,HelenSukova,1
+632,Gregoire Barrere,1
+633,Safwat fifth Dubai,1
+96,Juan Carlos Ferrero,1
+635,Rick Macci,1
+636,Jimmy Evert,1
+703,BiancAndreescu 2019,1
+639,GabrielSabatini,1
+113,Daniil Medvedvev,1
+640,Ted Tinling,1
+641,AndreJaeger,1
+642,Stefanie Graf,1
+644,Key Biscayne,1
+645,Oracene,1
+646,Maud,1
+631,Safwat first ATP,1
+98,David Nalbandian,1
+99,Nebraska,1
+628,countrywoman Ons Jabeur,1
+627,Mohamed Safwat,1
+625,Kim Clijsters^s,1
+624,Muguruza,1
+623,Borfiga,1
+108,Juan Martin,1
+621,Yaroslava,1
+620,Louis Borfiga,1
+619,Kiki Bertens,1
+617,Bruneau,1
+110,World No. 1,1
+615,Andreescus,1
+111,too - Rafael Nadal,1
+613,Grigore,1
+702,DariKasatkina,1
+712,Butch Buchholz,1
+76,Sloane Stephens Sloane Stephens Foundation,1
+803,Maroon,1
+797,Michelle,1
+27,Keys,1
+799,Bobby Jr.,1
+24,Fish,1
+801,Wayne,1
+802,James Valentine,1
+804,Alexis OlympiOhanian  Jr.,1
+814,Balearic Islands’ Regional Ministry of Health,1
+805,Alexis Ohanian,1
+806,Mike 100th,1
+807,Slams,1
+808,Micaeldad’s,1
+809,MicaelaMike,1
+810,Apple,1
+796,Richard,1
+795,Kalamazoo,1
+32,World TeamTennis,1
+792,Max Mirnyi,1
+791,Jonas Bjorkman,1
+790,CA,1
+34,Miles,1
+788,@BNPPARIBASOPEN,1
+787,Andreeescu,1
+786,Cliff Drysdale’s,1
+785,Tennis Camps,1
+784,Confessional Cart,1
+783,Clyde,1
+37,Countrywoman BiancAndreescu,1
+781,Premier League season,1
+780,Monte Carlo Country Club,1
+779,Liverpool,1
+813,Superior Sports Council,1
+815,CNN,1
+72,Apostolos,1
+845,Hsieh Su-wei,1
+838,Prajnesh Gunneswaran,1
+839,Times of India,1
+840,Ramkumar Ramanathan,1
+841,Ramanathan,1
+842,AnkitRaina,1
+5,YaroslavShvedova^s,1
+846,BarborStrycova^s,1
+816,Guy Forget,1
+847,Doha,1
+848,Fernandez Fernandez,1
+849,BNP Paribas Finals & Play-Offs,1
+850,Laszlo Papp Sport Arena,1
+851,David Haggerty,1
+852,Federer and Nadal,1
+837,SofiKenin—.,1
+836,104th,1
+835,Ostapenko,1
+8,Omni LCostResort & Spa,1
+833,ElenRybakina,1
+832,Porsche,1
+831,Stuttgart Sports Minister^s,1
+830,Bild,1
+829,WTA European,1
+828,Prague Prague,1
+827,SaschBajin,1
+9,World TeamTennis Celebrity All-Star Match,1
+825,Centers for Disease Control,1
+824,Riverside Public Health Department,1
+821,Guardian,1
+819,Nur-Sultan,1
+818,Melbourne Herald Sun,1
+778,Lakers,1
+777,Inter-Miami MLS,1
+776,Augusta,1
+731,Krystal Glasgow,1
+62,VaniKing,1
+725,John Naisbitt,1
+726,Megatrends,1
+61,Bethanie Mattek-Sands,1
+729,University of Southern California’s Sports Business Institute,1
+730,Frankie Moulton,1
+732,Raleigh,1
+775,David Beckham,1
+59,GRIND,1
+734,Stephane Robert,1
+735,Moulton Moulton,1
+736,Haas,1
+737,Moulton,1
+738,Wells feng shui,1
+723,Tournament,1
+722,Stadium Two,1
+721,Hawk-Eye,1
+63,AndrePetkovic,1
+719,Masters,1
+65,Aisam-ul-Haq Qureshi,1
+716,Wells Tennis Garden—7.5,1
+715,LQuintResort & Club,1
+714,Charlie Pasarell,1
+713,Miami Open,1
+574,Eisenhower Health,1
+711,Wells  CA,1
+710,Dan Evans,1
+709,Gael Monfils^,1
+708,AP Images/Getty Images,1
+707,Paris Masters,1
+68,Feliciano Lopez,1
+58,Drake,1
+740,WTA Madrid Masters,1
+57,helllit,1
+759,Four Seasons Racquet Club,1
+774,Arsenal,1
+773,social discourse,1
+772,barber shop,1
+771,WTA Premier,1
+770,ATP Challengers,1
+769,Challenger,1
+768,Daniil Medvedev PlayStation,1
+39,Coco,1
+766,Alexander Bublik,1
+765,Racquet,1
+763,Daniil Medvedev Grand Slam,1
+762,Wilton,1
+761,Todd Snyder,1
+760,Greg Moran,1
+758,Aussie,1
+742,ROLEX MC,1
+757,Karen Krantzcke,1
+756,Sportsmanship Award,1
+51,Susan,1
+753,Galbraith,1
+752,Patrick Galbraith,1
+751,Patrick J. Galbraith,1
+55,Cilic,1
+749,United States Tennis Association,1
+748,NHL,1
+747,MLB,1
+56,mic,1
+745,Direction of Rolex Monte-Carlo Masters,1
+744,Rolex Monte-Carlo,1
+743,Communiqué Officiel - COVID-19 - Rolex Monte-Carlo Masters,1
+575,Operating Officer,1
+564,Tennis Life,1
+573,David Agus,1
+375,Billie Jean King National Tennis Center,1
+369,AnastasiPotapova,1
+370,All England Lawn Tennis Club,1
+219,ElenDementieva,1
+372,Richard Lewis CBE,1
+218,ConchitMartinez,1
+374,ArantxRus^,1
+376,Advanced Polymer Technology,1
+211,John Millman,1
+217,Hall of Famer,1
+378,CHILE,1
+213,Will Wimbledon,1
+380,Thiago Seyboth,1
+212,WERTHEIM^S QUICK TAKE,1
+382,182nd,1
+368,Wang Yafan,1
+221,Kim Clijsters’,1
+222,STORIESLYON,1
+365,RebeccPeterson,1
+364,World No. 7,1
+225,Sichert,1
+226,Tennis Elite,1
+361,Leylah,1
+230,Garbine Murugura,1
+231,Mallorca,1
+358,ChandRubin,1
+357,José Morgado,1
+232,International Olympic Committee,1
+355,Paul Annacone^s,1
+354,Rotterdam,1
+233,Games,1
+352,Kwon Soonwoo,1
+383,Renzo Olivo,1
+385,U.S. Women’s National Team,1
+235,International Federations,1
+411,Justine Henin,1
+204,Chris Kermode,1
+406,VirginiWade,1
+407,Darlene Hard,1
+408,Margaret Court,1
+409,MariBueno,1
+203,TourTour,1
+413,SerenWilliams’s,1
+387,Soccer,1
+414,CorettScott King,1
+415,BJK,1
+416,INDIAN WELLS,1
+200,Tour,1
+418,Alessandro Barel,1
+419,Alessandro,1
+205,Juventus,1
+403,Gordon Forbes,1
+402,Helen Wills,1
+206,ChelseFC,1
+400,International Tennis Hall of Fame,1
+399,Covering Court,1
+208,BornCoric,1
+397,New York Herald Tribune,1
+396,ESPN,1
+395,Michael Wilbon,1
+394,Tony Kornheiser,1
+393,Carlos Cordeiro,1
+392,Deloitte,1
+391,Volkswagen,1
+390,Coca-Cola,1
+389,Visa,1
+209,Alejandro Davidvich Fokina,1
+234,IOC Executive Board,1
+236,Thomas Bach,1
+421,Barel Di Sant Albano,1
+302,Twitter ATP Player Council,1
+296,Elgnache Radio,1
+259,Jacmel,1
+298,Buenos Aires,1
+258,Naomi,1
+256,Nick Kyrgios,1
+301,Angelo Binaghi,1
+303,Roland Garros Bernard Giudicelli,1
+254,Hits,1
+305,Puig,1
+306,Roland Garros ATP Rankings,1
+307,WTA Rankings Novak Djokovic,1
+308,Kim Clijsters Novak Djokovic,1
+309,Rafael Nadal Novak Djokovic,1
+310,Vasek Pospisil Roland Garros ATP UniteThePlayers,1
+262,Alexander Zverev’d,1
+294,Facebook,1
+264,LeBron James,1
+291,Craft,1
+290,SofiKenin’d,1
+266,Boris Becker,1
+267,Andre Agassi,1
+287,Rod,1
+286,Sampras Era,1
+285,Novak,1
+283,Tom Gullikson,1
+282,Robert Lansdorp,1
+281,Michael Chang,1
+269,Courier’s Senior Circuit,1
+270,Carillo,1
+277,Mats Wilander,1
+272,Todd Martin,1
+311,Puig Puig,1
+253,Doctors Without Borders,1
+348,Kyle Edmund,1
+340,Taylor Fritz 85th,1
+246,Jean Francois Vilotte,1
+335,Kim Clijsters AP Kim Clijsters Garbine Muguruza,1
+336,RTBF,1
+337,Grand,1
+243,Olympic,1
+339,Djokovic Djokovic,1
+242,Tokyo Metropolitan Government,1
+314,Viktor Troicki,1
+241,Japanese Government,1
+240,Tokyo 2020 Organising Committee,1
+344,Sergey,1
+239,IOC Athletes’ Commission,1
+238,IOC,1
+237,International Federations for International Federations,1
+333,Spaniard Marc Lopez AP,1
+332,USTA USTA,1
+247,René Préval,1
+329,MonicPuig MonicPuig MonicPuig MonicPuig MonicPuig MonicPuig Puig,1
+328,FFT ATP Laver Cup  Metz,1
+327,FIT Grand Slams ATP,1
+326,ATP Roland Garros HABER WEIGHS ITF Naomi Osaka Diego Schwartzman,1
+325,Robin Haase,1
+324,WTA Roland Garros USTA,1
+323,AP Rafael Nadal,1
+321,ITF WELLS,1
+320,AP Kim Clijsters,1
+319,Diego Schwartzman ATP,1
+318,Puig Puig FFT,1
+317,USTA.Dominic Thiem,1
+316,Dominic Thiem Novak Djokovic,1
+315,2012.MonicPuig MonicPuig LNacion,1
+420,Barel Di,1
+422,FL,1
+572,Martin Massiello,1
+527,James Joyce,1
+520,Wayne Fereira,1
+521,Zack Evenden,1
+522,Wayne Ferreir#,1
+523,BigTruss,1
+524,Ferreira,1
+526,George Orwell,1
+528,VirginiWoolf,1
+536,kinda,1
+529,Tallulah Bankhead,1
+530,Tennis Magazine,1
+531,Norman Mailer,1
+532,World Tennis,1
+533,Vijay Amritraj’s,1
+534,John Feinstein’s,1
+142,Alex De Minaur,1
+144,Stan WawrinkaStan,1
+517,n’t MariSharapova,1
+516,MariSharapovslam-bang,1
+515,MariSharapov2017,1
+514,Indian Summers for,1
+513,https://bit.ly/3d4HMYU,1
+512,Constanta,1
+511,Team World,1
+510,Team Europe,1
+509,Boston Celtics^,1
+508,Gordon Hayward,1
+145,Stan WawrinkaStan Wawrinka,1
+146,Mannarino,1
+505,Top-150,1
+147,Khachanov,1
+148,Rublev,1
+535,NYC,1
+140,Roberto BautistAgut,1
+149,BautistAgut,1
+563,Plantation,1
+129,Marc Lopez,1
+558,Miles Davis’s,1
+559,Philippe Chatrier,1
+560,VictoriAzarenka,1
+561,Alison Riske,1
+562,Riske,1
+275,Tracy Austin,1
+538,Rex Bellamy,1
+566,Recreational,1
+126,Roger Federer^s,1
+568,Will Roland Garros,1
+569,Soeda,1
+570,Emilio Gomez,1
+571,UPDATE,1
+131,Fabio Fognini,1
+555,ArantxSanchez Vicario,1
+554,Ivan,1
+552,Reagan,1
+551,William Faulkner,1
+550,Clark Graebner,1
+133,Fognini,1
+548,Levels of Game,1
+547,Borg,1
+546,Ken,1
+545,CBS,1
+136,Andrey Rublev,1
+543,Toilet Paper Challenge,1
+542,NBC,1
+541,Dan Maskell,1
+540,BBC,1
+137,Karen Khachanov,1
+502,Wang,1
+500,Wang Xiyu,1
+423,Tennis.com,1
+451,Reilly Opelka,1
+184,Matteo 7-6,1
+444,Bob Kramer,1
+445,Kramer,1
+448,Bruins,1
+449,USC Trojans,1
+450,Billy Martin,1
+180,Van Uytvanck fifth WTA,1
+464,US Nationals,1
+453,Twin,1
+454,influenza,1
+455,Jack Kramer,1
+459,Jeff Borowiak,1
+460,Borowiak,1
+462,WWI,1
+186,Matteo Berrettini,1
+441,BHTC,1
+440,Beverly Hills Tennis Club,1
+439,Bob Bryan’re,1
+438,Bob Bryan’d,1
+437,Bob Bryan Mike,1
+187,Matteo,1
+435,Lornie Kuhle,1
+434,Acapulco,1
+188,Querrey^d,1
+189,Querrey’d,1
+431,PolonHercog,1
+430,Beyoncé,1
+192,Phoenix Challenger,1
+194,WTA Premiers,1
+425,Caty McNally,1
+424,Linz,1
+463,WWII,1
+169,Rafael Nadal’re,1
+152,Rafael,1
+491,Spaniard Roberto,1
+484,Cristian Garín,1
+485,Fokin6-2,1
+160,Barty,1
+487,Thiago Wild,1
+488,Juan Ignácio Londero of,1
+489,Albert Ramos Vinolas,1
+492,Juan Pablo,1
+168,Monte Carlo Country Cub,1
+493,Jo Konta,1
+158,Nao Hibino,1
+153,Kathryn Riley/BNP Paribas Open,1
+496,rang,1
+497,Taylor Fritz’s,1
+498,John,1
+483,Alejandro Davidovich,1
+482,UN,1
+481,ATP Player Council,1
+480,Mark Knowles,1
+163,James long ago,1
+478,Bill Tilden,1
+477,WikimediCommons,1
+476,Maurice McLoughlin,1
+475,Tom Bundy,1
+474,Davis Cupfinals,1
+473,Baltzell  Brookes,1
+472,West Side Tennis Club,1
+471,Davis Cup Challenge Round,1
+167,NCAA,1
+469,Wilding,1
+468,Imperial Russia,1
+467,Digby Baltzell,1
+853,David Ferrer,1
